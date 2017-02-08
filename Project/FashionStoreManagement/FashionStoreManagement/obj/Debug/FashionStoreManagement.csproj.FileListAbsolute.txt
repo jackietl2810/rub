@@ -1,0 +1,80 @@
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.exe.config
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.exe
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.pdb
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.csprojResolveAssemblyReference.cache
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.Form1.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.Properties.Resources.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucSaleManagement.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.csproj.GenerateResource.Cache
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.exe
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.pdb
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.exe.config
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.exe
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.pdb
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.csprojResolveAssemblyReference.cache
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.Form1.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.Properties.Resources.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucSaleManagement.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.csproj.GenerateResource.Cache
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.exe
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.pdb
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucCustomerManagement.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucBilling.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.frmFashionStoreManagement.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucBilling.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucCustomerManagement.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucSupplier.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.exe.config
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.exe
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.pdb
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.frmFashionStoreManagement.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucStatistics.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucSupplier.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucEventManagement.resources
+C:\Users\nhatl\Documents\Visual Studio 2013\Projects\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucProductManagement.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.csprojResolveAssemblyReference.cache
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.Form1.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.frmFashionStoreManagement.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.Properties.Resources.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucBilling.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucCustomerManagement.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucEventManagement.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucProductManagement.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucSaleManagement.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucSupplier.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.csproj.GenerateResource.Cache
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucEventManagement.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucProductManagement.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.exe
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\bin\Debug\FashionStoreManagement.pdb
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucStatisticsSale.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucPrice.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucPrice.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucStatisticsSale.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucStoreSettings.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.addHangHoa.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.addNhaCungCap.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.fmTraHang.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.khachhangdadangky.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.NhapHang.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.traHang.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucHoaDonNhapHang.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucHoaDonBanHang.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucManage.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucUserManage.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.addManage.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.editProduct.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.addHangHoa.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.addManage.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.addNhaCungCap.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.editProduct.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.fmTraHang.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.khachhangdadangky.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.NhapHang.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.traHang.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucHoaDonBanHang.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucHoaDonNhapHang.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucManage.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucStoreSettings.resources
+D:\Dropbox\đồ án rup\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.ucUserManage.resources
+D:\Dropbox\RUP\Project\FashionStoreManagement\FashionStoreManagement\obj\Debug\FashionStoreManagement.changepass.resources
